@@ -8,5 +8,6 @@ window.alert("this is alert box");
 
 ![dp - Copy](https://user-images.githubusercontent.com/95132299/143728884-2c01bc6a-52e7-4d0c-881a-bdf13e975d9a.jpg)
 
-https://imgur.com/q8W25V5
+![App Screenshot](https://imgur.com/q8W25V5.png)
+
 
